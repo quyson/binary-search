@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "koko-bannana/1.0.0": {
+        "runtime": {
+          "koko-bannana.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "koko-bannana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

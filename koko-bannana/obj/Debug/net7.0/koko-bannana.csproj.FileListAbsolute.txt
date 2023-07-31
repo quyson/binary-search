@@ -1,0 +1,15 @@
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\bin\Debug\net7.0\koko-bannana.exe
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\bin\Debug\net7.0\koko-bannana.deps.json
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\bin\Debug\net7.0\koko-bannana.runtimeconfig.json
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\bin\Debug\net7.0\koko-bannana.dll
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\bin\Debug\net7.0\koko-bannana.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\obj\Debug\net7.0\koko-bannana.csproj.AssemblyReference.cache
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\obj\Debug\net7.0\koko-bannana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\obj\Debug\net7.0\koko-bannana.AssemblyInfoInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\obj\Debug\net7.0\koko-bannana.AssemblyInfo.cs
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\obj\Debug\net7.0\koko-bannana.csproj.CoreCompileInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\obj\Debug\net7.0\koko-bannana.dll
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\obj\Debug\net7.0\refint\koko-bannana.dll
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\obj\Debug\net7.0\koko-bannana.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\obj\Debug\net7.0\koko-bannana.genruntimeconfig.cache
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\koko-bannana\obj\Debug\net7.0\ref\koko-bannana.dll
