@@ -1,0 +1,15 @@
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\bin\Debug\net7.0\search-2d.exe
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\bin\Debug\net7.0\search-2d.deps.json
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\bin\Debug\net7.0\search-2d.runtimeconfig.json
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\bin\Debug\net7.0\search-2d.dll
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\bin\Debug\net7.0\search-2d.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\obj\Debug\net7.0\search-2d.csproj.AssemblyReference.cache
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\obj\Debug\net7.0\search-2d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\obj\Debug\net7.0\search-2d.AssemblyInfoInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\obj\Debug\net7.0\search-2d.AssemblyInfo.cs
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\obj\Debug\net7.0\search-2d.csproj.CoreCompileInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\obj\Debug\net7.0\search-2d.dll
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\obj\Debug\net7.0\refint\search-2d.dll
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\obj\Debug\net7.0\search-2d.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\obj\Debug\net7.0\search-2d.genruntimeconfig.cache
+C:\Users\Quyson\Desktop\computer\leetcode\binary-search\search-2d\obj\Debug\net7.0\ref\search-2d.dll
