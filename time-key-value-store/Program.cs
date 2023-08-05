@@ -70,3 +70,20 @@ class TimeKeyValueStore
         return "Error: Value not found for the given time.";
     }
 }
+
+/* 
+public static void Main()
+    {
+        TimeKeyValueStore kvStore = new TimeKeyValueStore();
+        kvStore.Set("apple", "red", 5);
+        kvStore.Set("apple", "green", 10);
+        kvStore.Set("apple", "yellow", 15);
+
+        Console.WriteLine(kvStore.Get("apple", 7)); // Output: red
+        Console.WriteLine(kvStore.Get("apple", 12)); // Output: green
+        Console.WriteLine(kvStore.Get("banana", 10)); // Output: Error: Key not found.
+        Console.WriteLine(kvStore.Get("apple", 20)); // Output: yellow
+    }
+    }
+    EXAMPLE OF THE MAIN METHOD THAT INTERACTS WITH CLASS ABOVE
+*/
